@@ -24,6 +24,9 @@
 
 2. Import the project into your IDE and execute the application.
 
+3. In the project directory, you can run:
+    - ### `npm start`
+
 <br>
 
 ---
