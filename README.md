@@ -1,4 +1,4 @@
-# The Ultimate React Personal Portfolio Website <img width="50px" src="icon/react.png">
+# The Ultimate React Personal Portfolio Website <img width="50px" src="icons/react.png">
 
 ## _Repository with several subjects in React_
 
@@ -70,19 +70,29 @@ Sinta-se à vontade para explorar meu portfolio e conhecer mais sobre mim e meu 
 
 <br>
 
-![Home](/icons/Home.png)
+![image](/assets/1.png)
 
 <br>
 
-![Products](/icons/Products.png)
+![image](/assets/2.png)
 
 <br>
 
-![About](/icons/About.png)
+![image](/assets/3.png)
 
 <br>
 
-![Registrar_Login](/icons/Registrar_Login.png)
+![image](/assets/4.png)
+
+<br>
+
+![image](/assets/5.png)
+
+<br>
+
+![image](/assets/6.png)
+
+<br>
 
 ## 📚 _References_ 
 
